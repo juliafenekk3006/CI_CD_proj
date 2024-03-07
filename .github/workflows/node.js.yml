@@ -1,4 +1,4 @@
-name: XOXO_proj
+name: CI
 
 on:
  # События, которые запускают
